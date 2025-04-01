@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Kunal 👋
 
-## 👨‍💻 Full Stack Developer | React & Next.js Specialist
+## 👨‍💻 Full Stack Developer 
 
 I specialize in building dynamic web applications with modern technologies, focusing on React and Next.js. With a strong foundation in full-stack development, I have experience working with both front-end and back-end technologies, ensuring seamless integration and user experiences.
 
