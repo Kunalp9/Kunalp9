@@ -25,6 +25,8 @@ I specialize in building dynamic web applications with modern technologies, focu
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Kafka
 - **Others**: REST APIs, Agile
+- ![image](https://github.com/user-attachments/assets/37bf4b1b-55b3-43dd-94a2-2958d710b55b)
+
 
 ### 📈 GitHub Stats:
 ![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunalp9&show_icons=true&hide_title=true&count_private=true&hide=prs)
