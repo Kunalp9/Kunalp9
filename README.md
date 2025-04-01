@@ -26,7 +26,7 @@ I specialize in building dynamic web applications with modern technologies, focu
 ![image](https://github.com/user-attachments/assets/6ce1f373-0122-4e09-a5d5-d1a015c9cae9)
 ![image](https://github.com/user-attachments/assets/5ba82d89-f51f-4d8f-b94d-39e598f06fa8)
 ![image](https://github.com/user-attachments/assets/fefb3d0b-33cd-46e1-80ee-ee1bdf54f97a)
-![image](https://github.com/user-attachments/assets/e90c7458-8410-443e-a54b-f9e0483c321c)
+![image](https://github.com/user-attachments/assets/d830e6ae-c393-4f1f-aca9-5ad467ddd631)
 
 #### **Backend**: Node.js, Express.js, Java, Spring Boot
 ![image](https://github.com/user-attachments/assets/68539bef-29cb-4725-a586-686a47b01077)
