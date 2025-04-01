@@ -22,7 +22,7 @@ I specialize in building dynamic web applications with modern technologies, focu
 ### 💻 Tech Stack:
 #### **Frontend**: React, Next.js, HTML, CSS, JavaScript, TypeScript
 ![image](https://github.com/user-attachments/assets/37bf4b1b-55b3-43dd-94a2-2958d710b55b)
-![image](https://github.com/user-attachments/assets/dd800ae9-e35f-4b88-8fe0-896893d75a90)
+![image](https://github.com/user-attachments/assets/fce8de2e-2581-46ee-9ce9-31be3c17f7a7)
 ![image](https://github.com/user-attachments/assets/6ce1f373-0122-4e09-a5d5-d1a015c9cae9)
 ![image](https://github.com/user-attachments/assets/5ba82d89-f51f-4d8f-b94d-39e598f06fa8)
 ![image](https://github.com/user-attachments/assets/fefb3d0b-33cd-46e1-80ee-ee1bdf54f97a)
