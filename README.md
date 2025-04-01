@@ -27,7 +27,8 @@ I specialize in building dynamic web applications with modern technologies, focu
 ![image](https://github.com/user-attachments/assets/5ba82d89-f51f-4d8f-b94d-39e598f06fa8)
 ![image](https://github.com/user-attachments/assets/fefb3d0b-33cd-46e1-80ee-ee1bdf54f97a)
 ![image](https://github.com/user-attachments/assets/d830e6ae-c393-4f1f-aca9-5ad467ddd631)
-<a href="https://www.flaticon.com/free-icons/typescript" title="typescript icons">Typescript icons created by Freepik - Flaticon</a>
+![image](https://github.com/user-attachments/assets/77bb0c7e-342a-4af1-bac5-f9bf6c57cae3)
+
 
 #### **Backend**: Node.js, Express.js, Java, Spring Boot
 ![image](https://github.com/user-attachments/assets/68539bef-29cb-4725-a586-686a47b01077)
